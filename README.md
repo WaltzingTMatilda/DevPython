@@ -1,1 +1,1 @@
-# Devloping and maintenancing python code in self-taught
+# Devloping and maintenancing python code
